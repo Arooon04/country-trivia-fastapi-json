@@ -1,0 +1,11 @@
+.env
+myvenv/
+__pycache__/
+*.py[cod]
+*$py.class
+Recording 2026-11-17 215146.mp4
+*.mp4
+
+# Generated RAG artifacts (rebuilt automatically when running the app)
+downloaded_data.json
+.json_hash
